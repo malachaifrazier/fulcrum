@@ -12,7 +12,6 @@ group :assets do
 end
 
 gem 'jquery-rails'
-
 gem 'devise', "~> 2.0.5"
 gem 'transitions', '0.0.9', :require => ["transitions", "active_record/transitions"]
 gem 'i18n-js'
